@@ -1,0 +1,401 @@
+[SECTION: IT Act Section 43]
+Title: Penalty for Damage to Computer, Computer System, etc.
+Description: If any person without permission of the owner or any other person who is in charge of a computer, computer system or computer network accesses or secures access to such computer, computer system or computer network; downloads, copies or extracts any data, computer database or information; introduces or causes to be introduced any computer contaminant or computer virus; damages any computer, system, network, data, database or programme; disrupts a computer, system or network; denies access to an authorised person; assists unauthorised access; or charges services to another person's account by tampering with or manipulating a computer resource, the person is liable for compensation. This is a key civil provision for unauthorised access, data theft, malware, denial of access, and computer damage.
+Penalty: The person shall be liable to pay damages by way of compensation to the person so affected. Compensation may extend up to one crore rupees.
+Keywords: unauthorized access, hacking, damage, computer system, computer network, penalty, compensation, data theft, computer virus
+
+[SECTION: IT Act Section 43A]
+Title: Compensation for Failure to Protect Data
+Description: Where a body corporate possessing, dealing with, or handling sensitive personal data or information in a computer resource is negligent in implementing and maintaining reasonable security practices and procedures, and thereby causes wrongful loss or wrongful gain, it is liable to pay damages by way of compensation to the person affected. A body corporate includes companies, firms, sole proprietorships, and associations engaged in commercial or professional activities.
+Penalty: Compensation as determined by the adjudicating authority, depending on the loss caused.
+Keywords: data protection, corporate liability, sensitive personal data, security breach, data leak, negligence, body corporate
+
+[SECTION: IT Act Section 65]
+Title: Tampering with Computer Source Documents
+Description: Whoever knowingly or intentionally conceals, destroys, or alters, or knowingly or intentionally causes another person to conceal, destroy, or alter, computer source code used for a computer, computer programme, computer system, or computer network, when the source code is required to be kept or maintained by law, commits an offence.
+Penalty: Imprisonment up to three years, or fine up to two lakh rupees, or both.
+Keywords: source code tampering, computer program alteration, software manipulation, concealing code, destroying source code
+
+[SECTION: IT Act Section 66]
+Title: Computer Related Offences, including Hacking
+Description: If any person dishonestly or fraudulently does any act referred to in Section 43, the act becomes a criminal offence under Section 66. This covers dishonest or fraudulent unauthorised access, copying data without permission, introducing malware, damaging computer systems or networks, disrupting services, and similar computer-related offences. It is the primary hacking provision under the IT Act.
+Penalty: Imprisonment up to three years, or fine up to five lakh rupees, or both.
+Keywords: hacking, computer offences, unauthorized access, malware, virus, dishonest access, fraudulent access, cybercrime
+
+[SECTION: IT Act Section 66A]
+Title: Punishment for Sending Offensive Messages - Struck Down
+Description: Section 66A previously punished sending offensive, menacing, or false messages through communication services. Important legal note: Section 66A was struck down as unconstitutional by the Supreme Court of India in Shreya Singhal v. Union of India in 2015 for violating freedom of speech and expression. It is no longer valid law and cannot be used for prosecution after that judgment. Depending on facts, offensive online messages may still be examined under other valid provisions, such as BNS Section 351 for criminal intimidation or IT Act Section 67 for obscene electronic material.
+Penalty: Not applicable because Section 66A was declared unconstitutional by the Supreme Court in 2015.
+Keywords: offensive messages, online messages, section 66A, struck down, unconstitutional, Shreya Singhal, freedom of speech
+
+[SECTION: IT Act Section 66B]
+Title: Dishonestly Receiving Stolen Computer Resource or Communication Device
+Description: Whoever dishonestly receives or retains any stolen computer resource or communication device, knowing or having reason to believe it to be stolen, commits an offence. This can cover stolen laptops, phones, SIM cards, storage devices, data, or other computer resources.
+Penalty: Imprisonment up to three years, or fine up to one lakh rupees, or both.
+Keywords: stolen computer, stolen data, receiving stolen property, stolen device, stolen SIM card, stolen phone
+
+[SECTION: IT Act Section 66C]
+Title: Punishment for Identity Theft
+Description: Whoever fraudulently or dishonestly uses the electronic signature, password, or any other unique identification feature of another person commits identity theft. This includes misuse of login credentials, digital signatures, Aadhaar or PAN details, authentication information, or other identifiers without consent for fraudulent purposes.
+Penalty: Imprisonment up to three years, and fine up to one lakh rupees.
+Keywords: identity theft, password theft, electronic signature misuse, login credentials, Aadhaar misuse, PAN misuse, account takeover, digital identity
+
+[SECTION: IT Act Section 66D]
+Title: Cheating by Personation Using Computer Resource
+Description: Whoever cheats by personation using any communication device or computer resource commits an offence. This covers fake social media profiles, impersonation accounts, fake customer care numbers, fake bank officials, romance scams using false identities, and other online impersonation done for deception or fraud.
+Penalty: Imprisonment up to three years, and fine up to one lakh rupees.
+Keywords: online impersonation, fake profile, cheating by personation, fake account, fake identity, impersonation, fake bank official
+
+[SECTION: IT Act Section 66E]
+Title: Punishment for Violation of Privacy
+Description: Whoever intentionally or knowingly captures, publishes, or transmits the image of a private area of any person without consent, under circumstances violating that person's privacy, commits an offence. Private area includes naked or undergarment-clad genitals, pubic area, buttocks, or female breast. This may apply to hidden cameras, voyeurism-like conduct, revenge porn, and non-consensual intimate images.
+Penalty: Imprisonment up to three years, or fine up to two lakh rupees, or both.
+Keywords: privacy violation, voyeurism, private images, hidden camera, revenge porn, non-consensual images, intimate images, publishing private photos
+
+[SECTION: IT Act Section 66F]
+Title: Punishment for Cyber Terrorism
+Description: Cyber terrorism includes acts done with intent to threaten the unity, integrity, security, or sovereignty of India or to strike terror in people or any section of people, such as denying access to authorised persons, unauthorised access to computer resources, introducing computer contaminants, or accessing restricted information likely to affect national security, foreign relations, public order, or other protected interests.
+Penalty: Imprisonment which may extend to imprisonment for life.
+Keywords: cyber terrorism, national security, critical infrastructure attack, cyber attack, terror threat, denial of service, national threat
+
+[SECTION: IT Act Section 67]
+Title: Publishing or Transmitting Obscene Material in Electronic Form
+Description: Whoever publishes, transmits, or causes to be published or transmitted in electronic form any material that is lascivious, appeals to prurient interest, or tends to deprave and corrupt persons likely to read, see, or hear it, commits an offence. This may apply to obscene content shared through websites, social media, messaging apps, emails, or other electronic media.
+Penalty: On first conviction, imprisonment up to three years and fine up to five lakh rupees. On subsequent conviction, imprisonment up to five years and fine up to ten lakh rupees.
+Keywords: obscene content, pornography, obscene material online, obscene messages, lascivious content, electronic pornography
+
+[SECTION: IT Act Section 67A]
+Title: Publishing or Transmitting Sexually Explicit Material
+Description: Whoever publishes, transmits, or causes to be published or transmitted in electronic form any material containing a sexually explicit act or conduct commits an offence. This is more serious than Section 67 and may apply to explicit videos, images, or content shared through WhatsApp, email, websites, apps, or other electronic media.
+Penalty: On first conviction, imprisonment up to five years and fine up to ten lakh rupees. On subsequent conviction, imprisonment up to seven years and fine up to ten lakh rupees.
+Keywords: sexually explicit content, explicit material, explicit videos, explicit images, electronic pornography, sexual content online
+
+[SECTION: IT Act Section 67B]
+Title: Publishing or Transmitting Child Sexual Abuse Material
+Description: Section 67B criminalises publishing, transmitting, creating, collecting, seeking, browsing, downloading, advertising, promoting, exchanging, or distributing electronic material depicting children in sexually explicit acts or in obscene, indecent, or sexually explicit manner. It also covers online facilitation, enticement, or inducement of children for sexually explicit acts. This is among the most serious cyber offences.
+Penalty: On first conviction, imprisonment up to five years and fine up to ten lakh rupees. On subsequent conviction, imprisonment up to seven years and fine up to ten lakh rupees.
+Keywords: child pornography, CSAM, child sexual abuse material, children obscene content, child exploitation, minors explicit content
+
+[SECTION: IT Act Section 67C]
+Title: Preservation and Retention of Information by Intermediaries
+Description: Intermediaries, including social media platforms, websites, and internet service providers, must preserve and retain information as specified by the Central Government for the prescribed duration, manner, and format. This is important for cybercrime investigations because logs, user data, and communication records can be needed as evidence.
+Penalty: Imprisonment up to three years and fine for intentional or knowing non-compliance.
+Keywords: data retention, intermediary duty, social media logs, preservation of data, investigation records, platform responsibility, evidence preservation
+
+[SECTION: IT Act Section 69]
+Title: Power to Issue Directions for Interception, Monitoring or Decryption
+Description: The Central Government, State Government, or authorised officer may direct interception, monitoring, or decryption of information through any computer resource when necessary or expedient in the interest of sovereignty or integrity of India, defence, security of the State, friendly relations with foreign States, public order, preventing incitement to cognizable offences, or investigation of offences. This is the government's lawful interception and decryption power, subject to legal procedure.
+Penalty: Failure to assist with a lawful direction may lead to imprisonment up to seven years and fine.
+Keywords: government surveillance, lawful interception, monitoring, decryption, national security, intelligence, wiretapping digital
+
+[SECTION: IT Act Section 69A]
+Title: Power to Block Public Access to Information
+Description: The Central Government or authorised officer may direct an agency or intermediary to block public access to information through any computer resource when necessary or expedient in the interest of sovereignty and integrity of India, defence, security of the State, friendly relations with foreign States, public order, or preventing incitement to cognizable offences. This is the legal basis for website, app, URL, and content blocking orders in India.
+Penalty: Intermediary non-compliance may lead to imprisonment up to seven years and fine.
+Keywords: website blocking, URL blocking, app ban, blocking order, platform takedown, content removal, government blocking
+
+[SECTION: IT Act Section 69B]
+Title: Monitoring and Collecting Traffic Data for Cyber Security
+Description: The Central Government may authorise an agency to monitor and collect traffic data or information through any computer resource for enhancing cyber security and for identifying, analysing, and preventing intrusion or spread of computer contaminants in India. This supports cyber threat detection and incident response by authorised agencies.
+Penalty: Failure to assist as required may lead to imprisonment up to three years and fine.
+Keywords: traffic monitoring, cyber security surveillance, network monitoring, CERT-In, cyber threat detection, intrusion detection
+
+[SECTION: IT Act Section 70]
+Title: Protected System
+Description: The appropriate Government may declare any computer resource that directly or indirectly affects critical information infrastructure to be a protected system. Unauthorised access to a protected system is a serious offence because such systems may relate to power grids, telecom, banking, nuclear facilities, government systems, or other critical services.
+Penalty: Imprisonment up to ten years and fine.
+Keywords: critical infrastructure, protected system, power grid attack, nuclear facility, banking system attack, government computer
+
+[SECTION: IT Act Section 70B]
+Title: Indian Computer Emergency Response Team (CERT-In)
+Description: The Central Government appoints the Indian Computer Emergency Response Team (CERT-In) as the national agency for cyber security incident response. CERT-In collects, analyses, and disseminates information on cyber incidents; issues forecasts and alerts; coordinates emergency measures; and issues guidelines, advisories, vulnerability notes, and white papers. Under CERT-In directions, covered entities such as service providers, intermediaries, data centres, body corporates, and government organisations must report specified cyber security incidents within the prescribed timeline, commonly six hours for listed incidents.
+Penalty: Non-compliance with CERT-In directions may lead to imprisonment up to one year, or fine up to one lakh rupees, or both.
+Keywords: CERT-In, cyber incident reporting, cyber security agency, incident response, cybercrime reporting, national cyber agency, mandatory reporting
+
+[SECTION: IT Act Section 72]
+Title: Breach of Confidentiality and Privacy
+Description: A person who has secured access to electronic records, books, registers, correspondence, information, documents, or other material under powers conferred by the IT Act or its rules commits an offence if they disclose it to another person without consent and in breach of lawful authority. This protects confidentiality when officials or authorised persons access electronic information.
+Penalty: Imprisonment up to two years, or fine up to one lakh rupees, or both.
+Keywords: confidentiality breach, privacy breach, data disclosure, official misconduct, private data leak, unauthorized disclosure
+
+[SECTION: IT Act Section 72A]
+Title: Disclosure of Information in Breach of Lawful Contract
+Description: Any person, including an intermediary, who has access to personal information while providing services under a lawful contract commits an offence if they disclose it without consent, or in breach of contract, with intent to cause or knowing it is likely to cause wrongful loss or wrongful gain. This can apply to data leaks by employees, service providers, BPO workers, IT companies, and insiders.
+Penalty: Imprisonment up to three years, or fine up to five lakh rupees, or both.
+Keywords: data breach, employee data theft, BPO fraud, personal data disclosure, contract breach, insider threat, data leakage
+
+[SECTION: IT Act Section 74]
+Title: Publication of Digital Signature Certificate for Fraudulent Purpose
+Description: Whoever knowingly creates, publishes, or otherwise makes available an electronic signature certificate or digital signature certificate for any fraudulent or unlawful purpose commits an offence. This covers misuse of digital signatures and certificates for fraudulent documents, financial fraud, or impersonation in official communications.
+Penalty: Imprisonment up to two years, or fine up to one lakh rupees, or both.
+Keywords: digital signature fraud, false digital certificate, forged digital signature, fraudulent certificate
+
+[SECTION: IT Act Section 75]
+Title: Act to Apply for Offences Committed Outside India
+Description: The IT Act can apply to offences or contraventions committed outside India by any person, irrespective of nationality, if the act involves a computer, computer system, or computer network located in India. This gives Indian law an extraterritorial reach for cross-border cyber offences targeting Indian computer resources.
+Penalty: Same as the penalty for the specific section violated.
+Keywords: extraterritorial jurisdiction, foreign cybercrime, international cybercrime, jurisdiction, cross-border cybercrime, Indian victims abroad
+
+[SECTION: IT Act Section 79]
+Title: Intermediary Safe Harbour
+Description: An intermediary is generally not liable for third-party information, data, or communication links made available or hosted by it if its role is limited to providing access to a communication system, it does not initiate the transmission, select the receiver, or select or modify the information, and it follows due diligence and government-prescribed guidelines. Intermediaries may lose safe harbour if they fail to comply with lawful requirements or continue to host unlawful content after valid notice or order.
+Penalty: Loss of safe harbour protection and possible liability under applicable laws if statutory conditions are not met.
+Keywords: safe harbour, intermediary protection, platform liability, social media liability, website liability, content moderation, notice and takedown
+
+[SECTION: IT Act Section 84B]
+Title: Punishment for Abetment of Offences
+Description: Whoever abets an offence under the IT Act may be punished with the punishment provided for the offence if the act abetted is committed in consequence of the abetment and the Act does not provide a separate punishment for abetment. Abetment may include instigation, conspiracy, or intentional aid in cybercrime.
+Penalty: Same punishment as provided for the offence abetted, where applicable.
+Keywords: abetment, aiding cybercrime, helping in cybercrime, conspiracy, instigation, assisting hacker
+
+[SECTION: IT Act Section 84C]
+Title: Punishment for Attempt to Commit Offences
+Description: Whoever attempts to commit an offence punishable under the IT Act, or causes such an offence to be committed, and does an act towards commission of the offence, may be punished where no express attempt provision exists. This can apply to attempted hacking, attempted data theft, or other incomplete cyber offences.
+Penalty: Up to one-half of the longest term of imprisonment provided for the offence, or the fine provided for the offence, or both.
+Keywords: attempt to commit cybercrime, attempted hacking, cyber offence attempt, incomplete cybercrime
+
+[SECTION: IPC Section 419]
+Title: Cheating by Personation
+Description: Whoever cheats by pretending to be some other person, knowingly substituting one person for another, or representing that they or another person are someone they are not, commits cheating by personation. In cyber contexts, this applies to fake profiles, fake emails, fake customer care agents, impersonating bank officials, and online identity fraud. Similar conduct is now covered under BNS Section 319 for new offences after 1 July 2024.
+Penalty: Imprisonment up to three years, or fine, or both.
+Keywords: personation, impersonation, fake identity, pretending to be someone, online fraud, fake profile, account fraud
+
+[SECTION: IPC Section 420]
+Title: Cheating and Dishonestly Inducing Delivery of Property
+Description: Whoever cheats and dishonestly induces the person deceived to deliver property, or to make, alter, or destroy valuable security or anything capable of being converted into valuable security, commits an offence. In cyber contexts, this covers online shopping fraud, investment scams, lottery fraud, UPI fraud, bank fraud, job fraud, matrimonial fraud, and schemes that deceive victims into parting with money or property. Similar conduct is now covered under BNS Section 318 for new offences after 1 July 2024.
+Penalty: Imprisonment up to seven years and fine.
+Keywords: online fraud, cheating, financial fraud, property fraud, internet scam, UPI fraud, online shopping fraud, investment scam
+
+[SECTION: IPC Section 463]
+Title: Forgery - Definition
+Description: Forgery means making a false document or false electronic record, or part of one, with intent to cause damage or injury, support a claim or title, cause a person to part with property, enter into a contract, or commit fraud. In cyber contexts, this can include forged digital documents, forged electronic records, fake invoices, tampered screenshots, and falsified digital evidence.
+Penalty: IPC Section 463 defines forgery; punishment is applied through sections such as IPC Sections 465, 468, 469, or 471.
+Keywords: forgery, false document, fake document, electronic record forgery, forged certificate, document tampering
+
+[SECTION: IPC Section 464]
+Title: Making a False Document or Electronic Record
+Description: A person makes a false document or false electronic record when they dishonestly or fraudulently make, sign, seal, execute, transmit, alter, or create a document or electronic record so it appears to have been made by someone else, by authority not actually given, at a different time, or with altered content. This section defines the foundation for forgery offences.
+Penalty: IPC Section 464 is definitional; punishment is applied through related forgery provisions.
+Keywords: false document, fabricated document, forged signature, altered document, false electronic record, fake records
+
+[SECTION: IPC Section 465]
+Title: Punishment for Forgery
+Description: Whoever commits forgery is punishable under this general forgery provision. It can apply to digital forgery, forged electronic documents, and tampered digital records when no aggravated forgery provision is invoked.
+Penalty: Imprisonment up to two years, or fine, or both.
+Keywords: forgery punishment, forged document punishment, digital forgery, electronic forgery penalty
+
+[SECTION: IPC Section 468]
+Title: Forgery for Purpose of Cheating
+Description: Whoever commits forgery intending that the forged document or electronic record will be used for cheating commits an aggravated forgery offence. This may include forged bank documents, fake invoices, forged property papers, fake job offer letters, forged admission letters, or fake electronic records used in online scams.
+Penalty: Imprisonment up to seven years and fine.
+Keywords: forgery for cheating, forged bank document, fake invoice, forged property paper, document fraud, cheating through forgery
+
+[SECTION: IPC Section 469]
+Title: Forgery for Purpose of Harming Reputation
+Description: Whoever commits forgery intending that the forged document or electronic record will harm a person's reputation, or knowing it is likely to be used for that purpose, commits this offence. It may cover fake screenshots, fabricated chats, morphed images attributed to someone, and forged documents used to damage reputation online.
+Penalty: Imprisonment up to three years and fine.
+Keywords: reputation damage, forged screenshots, fake chats, morphed images, defamation through forgery, reputation harm
+
+[SECTION: IPC Section 470]
+Title: Forged Document or Electronic Record
+Description: A false document or false electronic record made wholly or partly by forgery is a forged document or forged electronic record. This definition supports offences involving forged emails, fake certificates, fabricated electronic contracts, altered PDFs, and similar digital records.
+Penalty: IPC Section 470 is definitional; punishment depends on the specific forgery offence invoked.
+Keywords: forged document definition, forged electronic record, fake certificate, fabricated email, forged contract
+
+[SECTION: IPC Section 471]
+Title: Using Forged Document as Genuine
+Description: Whoever fraudulently or dishonestly uses as genuine any document or electronic record that they know or have reason to believe is forged is punished as if they had forged it. This can cover presenting fake certificates, fabricated digital documents, forged screenshots, or forged electronic records as authentic.
+Penalty: Same as the punishment for the relevant forgery offence.
+Keywords: using forged document, presenting fake document, fraudulent use of forgery, fake certificate use
+
+[SECTION: IPC Section 499]
+Title: Defamation - Definition
+Description: Defamation means making or publishing an imputation about a person, by words, signs, or visible representations, intending to harm, or knowing or having reason to believe it will harm, that person's reputation, subject to legal exceptions. Online examples include defamatory social media posts, WhatsApp forwards, fake news, blogs, YouTube videos, or morphed images with defamatory captions.
+Penalty: IPC Section 499 defines defamation; punishment is provided under IPC Section 500.
+Keywords: defamation, online defamation, reputation harm, defamatory post, fake news, social media defamation, character assassination
+
+[SECTION: IPC Section 500]
+Title: Punishment for Defamation
+Description: Whoever defames another is punishable. Online defamation may include defamatory social media posts, defamatory videos, fake news spread through WhatsApp or websites, morphed images with defamatory captions, and fake reviews intended to harm reputation. Similar conduct is now covered under BNS Section 356 for new offences after 1 July 2024.
+Penalty: Simple imprisonment up to two years, or fine, or both.
+Keywords: defamation punishment, online defamation, social media defamation, WhatsApp defamation, fake news, morphed image, fake review
+
+[SECTION: IPC Section 503]
+Title: Criminal Intimidation - Definition
+Description: Whoever threatens another with injury to their person, reputation, or property, or to the person or reputation of someone in whom they are interested, with intent to cause alarm or force them to do or omit an act, commits criminal intimidation. Online threats through WhatsApp, email, social media DMs, gaming chats, or anonymous messages can qualify depending on facts.
+Penalty: IPC Section 503 defines criminal intimidation; punishment is generally provided under IPC Section 506.
+Keywords: criminal intimidation, online threats, WhatsApp threat, social media threat, threatening messages, anonymous threats
+
+[SECTION: IPC Section 506]
+Title: Punishment for Criminal Intimidation
+Description: Whoever commits criminal intimidation is punishable. If the threat is to cause death, grievous hurt, destruction of property by fire, an offence punishable with death or life imprisonment, an offence punishable with imprisonment up to seven years, or to impute unchastity to a woman, the aggravated punishment may apply. Online examples include death threats, rape threats, sextortion threats, threats to leak intimate images, and blackmail messages.
+Penalty: Basic punishment is imprisonment up to two years, or fine, or both. Aggravated punishment may extend to seven years, or fine, or both.
+Keywords: criminal intimidation punishment, death threat online, rape threat, threat to leak images, sextortion threat, online harassment
+
+[SECTION: IPC Section 509]
+Title: Word, Gesture or Act Intended to Insult the Modesty of a Woman
+Description: Whoever, intending to insult the modesty of a woman, utters a word, makes a sound or gesture, exhibits an object, or intrudes upon her privacy, commits an offence. In cyber contexts, this may cover obscene messages to women, unsolicited explicit content, sexual harassment through DMs, privacy intrusion, and cyber harassment of women. Similar conduct is now covered under BNS Section 79 for new offences after 1 July 2024.
+Penalty: Simple imprisonment up to three years and fine.
+Keywords: online harassment of women, obscene messages to women, sexual harassment online, cyber harassment, modesty insult, unsolicited explicit content
+
+[SECTION: IPC Section 354D]
+Title: Stalking including Cyber Stalking
+Description: Stalking includes following a woman and contacting or attempting to contact her repeatedly despite a clear indication of disinterest, or monitoring the use by a woman of the internet, email, or any other form of electronic communication. In cyber contexts, repeated unwanted messages, monitoring social media activity, tracking location, spyware, stalkerware, and obsessive digital surveillance can be relevant. Similar conduct is now covered under BNS Section 78 for new offences after 1 July 2024.
+Penalty: First conviction: imprisonment up to three years and fine. Subsequent conviction: imprisonment up to five years and fine.
+Keywords: cyber stalking, online stalking, harassment, monitoring internet, tracking woman, digital surveillance, following online, stalker
+
+[SECTION: BNS Section 78]
+Title: Stalking including Cyber Stalking
+Description: BNS Section 78 covers stalking. A man commits stalking if he follows a woman and contacts, or attempts to contact her, to foster personal interaction repeatedly despite a clear indication of disinterest, or monitors the use by a woman of the internet, email, or any other form of electronic communication. It applies to offences from 1 July 2024 onwards and can cover repeated unwanted texting, DMs, emails, online monitoring, location tracking, spyware, or stalkerware.
+Penalty: First conviction: imprisonment up to three years and fine. Subsequent conviction: imprisonment up to five years and fine.
+Keywords: cyber stalking, online stalking, BNS stalking, digital surveillance, monitoring internet, tracking woman, following online, stalkerware, repeated messages
+
+[SECTION: BNS Section 79]
+Title: Insulting Modesty of a Woman - Online Harassment
+Description: BNS Section 79 covers words, gestures, sounds, objects, or acts intended to insult the modesty of a woman, including intrusion upon privacy. In digital contexts, it can cover obscene texts or images sent to women, sexual harassment through WhatsApp, Instagram DM, email, gaming platforms, unsolicited explicit photos, online sexual taunting, and privacy intrusion. It corresponds broadly to IPC Section 509.
+Penalty: Simple imprisonment up to three years and fine.
+Keywords: online harassment of women, obscene messages, sexual harassment online, cyber harassment, digital modesty insult, unsolicited explicit content, BNS 79
+
+[SECTION: BNS Section 318]
+Title: Cheating
+Description: BNS Section 318 covers cheating. A person cheats if, by deceiving another, they fraudulently or dishonestly induce the person to deliver property, consent to retention of property, or do or omit something they would not otherwise do or omit, causing or likely to cause damage or harm in body, mind, reputation, or property. In cyber contexts, this covers UPI fraud, OTP fraud, phishing, job scams, lottery scams, investment fraud, romance scams, and fake e-commerce fraud. It corresponds broadly to IPC cheating provisions, including IPC Section 420 for property delivery cases.
+Penalty: Cheating may be punished with imprisonment up to three years, or fine, or both. Cheating that dishonestly induces delivery of property may be punished with imprisonment up to seven years and fine.
+Keywords: online cheating, BNS cheating, UPI fraud, OTP fraud, phishing, online scam, investment fraud, job fraud, lottery scam, e-commerce fraud
+
+[SECTION: BNS Section 319]
+Title: Cheating by Personation
+Description: BNS Section 319 covers cheating by personation. A person cheats by personation if they cheat by pretending to be someone else, knowingly substituting one person for another, or representing that they or another person are someone they are not. Cyber examples include fake social media profiles, fake bank employees, online impersonation of police or government officials, fake customer care agents, romance scammers using false identities, and fake accounts created in a victim's name.
+Penalty: Imprisonment up to three years, or fine, or both.
+Keywords: personation, fake profile, BNS impersonation, fake bank official, fake police online, fake identity, fake account, romance scam
+
+[SECTION: BNS Section 336]
+Title: Forgery and Forged Electronic Records
+Description: BNS Section 336 covers forgery involving false documents or false electronic records made with intent to cause damage or injury, support a claim or title, cause a person to part with property, or commit fraud. In cyber contexts, it may apply to fabricated email trails, fake WhatsApp screenshots, manipulated digital documents, forged digital signatures, tampered PDFs, fake online contracts, and morphed images used in fraud. Related BNS forgery provisions cover aggravated forms and use of forged records.
+Penalty: General forgery punishment may extend to imprisonment up to two years, or fine, or both. Forgery for cheating or aggravated forgery may carry higher punishment under related provisions.
+Keywords: digital forgery, BNS forgery, electronic record forgery, fake screenshots, morphed images, forged digital document, tampered PDF, fake WhatsApp chat
+
+[SECTION: BNS Section 340]
+Title: Forged Electronic Records and Using as Genuine
+Description: BNS Section 340 concerns forged documents or electronic records and using them as genuine. A person who fraudulently or dishonestly uses a forged document or electronic record as genuine, knowing or having reason to believe it is forged, can be punished as if they had forged it. It may cover fabricated screenshots, fake digital evidence, tampered emails, forged PDFs, and AI-generated or deepfake materials presented as genuine evidence.
+Penalty: Same as punishment for the relevant forgery offence.
+Keywords: using forged electronic record, fake digital evidence, tampered screenshots, fabricated email, deepfake document fraud
+
+[SECTION: BNS Section 351]
+Title: Criminal Intimidation
+Description: BNS Section 351 covers criminal intimidation. Whoever threatens another with injury to person, reputation, or property, or to the person or reputation of someone in whom they are interested, with intent to cause alarm or force them to do or omit an act, commits criminal intimidation. Cyber examples include death threats through WhatsApp, rape threats on social media, threats to leak intimate images, blackmail by email, doxxing combined with threats, bomb threats, and anonymous online threats.
+Penalty: Basic punishment may extend to imprisonment up to two years, or fine, or both. If the threat is to cause death, grievous hurt, destruction of property by fire, certain serious offences, or to impute unchastity to a woman, imprisonment may extend to seven years, or fine, or both.
+Keywords: BNS criminal intimidation, online threat, WhatsApp threat, death threat online, rape threat, sextortion threat, doxxing threat, blackmail online
+
+[SECTION: BNS Section 356]
+Title: Defamation
+Description: BNS Section 356 covers defamation. Whoever, by words intended to be read, spoken words, signs, or visible representations, makes or publishes an imputation concerning a person intending to harm, or knowing or having reason to believe it will harm, that person's reputation, commits defamation, subject to legal exceptions. Online examples include defamatory Facebook posts, tweets, fake news articles, YouTube videos making false allegations, defamatory WhatsApp forwards, morphed images with false captions, and fake negative reviews intended to harm reputation.
+Penalty: Simple imprisonment up to two years, or fine, or both.
+Keywords: BNS defamation, online defamation, social media defamation, fake news, reputation damage, defamatory post, morphed images, fake reviews, YouTube defamation
+
+[SECTION: DPDP Act Section 4]
+Title: Grounds for Processing Digital Personal Data
+Description: The Digital Personal Data Protection Act, 2023 regulates processing of digital personal data in a way that recognises both privacy rights and lawful data processing needs. Under Section 4, personal data may be processed only for a lawful purpose and either with consent of the Data Principal or for certain legitimate uses recognised by the Act. It can apply to processing in India and to processing outside India if connected with offering goods or services to Data Principals in India.
+Penalty: Financial penalties may apply under the DPDP Act depending on the specific contravention.
+Keywords: personal data protection, DPDP Act, data consent, data privacy India, data rights, data principal, data fiduciary
+
+[SECTION: DPDP Act Section 8]
+Title: Obligations of Data Fiduciary - Data Security and Breach Notification
+Description: Every Data Fiduciary must protect personal data in its possession or control by taking reasonable security safeguards to prevent personal data breach. In the event of a personal data breach, the Data Fiduciary must notify the Data Protection Board of India and each affected Data Principal in the prescribed manner. Companies, apps, and platforms that collect personal data such as name, phone, email, financial data, health data, or identifiers must secure it and follow breach notification obligations.
+Penalty: Up to Rs 250 crore for failure to take reasonable security safeguards to prevent personal data breach. Up to Rs 200 crore for failure to notify the Board and affected Data Principals of a personal data breach.
+Keywords: data breach notification, data security, personal data breach, data breach India, company responsibility, DPDP breach, user notification, data protection obligation
+
+[SECTION: DPDP Act Section 9]
+Title: Processing Personal Data of Children
+Description: Before processing personal data of a child, a Data Fiduciary must obtain verifiable consent of the parent or lawful guardian. A Data Fiduciary must not process a child's personal data in a manner detrimental to the child's well-being and must not undertake tracking, behavioural monitoring, or targeted advertising directed at children. Under the DPDP Act, a child generally means an individual below 18 years of age.
+Penalty: Up to Rs 200 crore for breach of additional obligations relating to children.
+Keywords: children's data privacy, child data protection, parental consent, children online privacy, DPDP children, tracking children, behavioural monitoring minors
+
+[SECTION: DPDP Act Sections 11 to 14]
+Title: Rights of Data Principal - Access, Correction, Erasure, Grievance, Nomination
+Description: A Data Principal is the individual whose personal data is processed. The DPDP Act gives Data Principals rights to access information about personal data processing, seek correction and erasure of personal data, use grievance redressal mechanisms, and nominate another person to exercise rights in case of death or incapacity. In practical terms, individuals may ask apps or companies what personal data is held, seek correction of inaccurate data, request deletion where legally applicable, and raise grievances.
+Penalty: Data Fiduciaries may face penalties for failing to comply with applicable obligations. Data Principals may face a penalty up to Rs 10,000 for breach of their statutory duties.
+Keywords: right to data, data erasure, right to be forgotten, data correction, data privacy rights, DPDP rights, data access right, personal data deletion
+
+[SECTION: DPDP Act Section 10]
+Title: Significant Data Fiduciary Obligations
+Description: The Central Government may notify certain Data Fiduciaries as Significant Data Fiduciaries based on factors such as volume and sensitivity of personal data processed, risk to Data Principal rights, impact on sovereignty and integrity of India, electoral democracy, security of the State, or public order. Significant Data Fiduciaries have additional obligations, including appointment of a Data Protection Officer, independent data auditor, periodic data protection impact assessment, periodic audit, and other prescribed measures.
+Penalty: Financial penalties may apply for non-compliance with obligations under the DPDP Act, depending on the contravention.
+Keywords: significant data fiduciary, large platform obligations, DPO, data protection officer, high risk data processing, social media data
+
+[SECTION: IT Rules 2021 Rule 3]
+Title: Due Diligence by Intermediaries
+Description: The Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021 require intermediaries, including social media platforms, to publish rules, privacy policies, and user agreements, and inform users not to host, display, upload, modify, publish, transmit, store, update, or share unlawful or prohibited information. Prohibited categories include content belonging to another person without rights, obscene or pornographic content, harmful content to children, intellectual property infringement, impersonation, patently false or misleading information, threats to national security or public order, software viruses, and content violating any law. Intermediaries must also follow grievance redressal and preservation obligations.
+Penalty: Loss of safe harbour protection under IT Act Section 79 and possible civil or criminal liability under applicable laws.
+Keywords: IT Rules 2021, social media rules, platform duty, content moderation, intermediary guidelines, platform policy, terms of service
+
+[SECTION: IT Rules 2021 Rule 4]
+Title: Additional Due Diligence for Significant Social Media Intermediaries
+Description: Significant Social Media Intermediaries, generally platforms above the notified user threshold in India, must perform additional due diligence. These duties include appointing a Chief Compliance Officer resident in India, appointing a nodal contact person for 24x7 coordination with law enforcement, appointing a Resident Grievance Officer, publishing periodic compliance reports, enabling voluntary user verification, and complying with lawful orders relating to identification of the first originator of information on messaging services when legally required.
+Penalty: Loss of safe harbour protection and possible liability for non-compliance.
+Keywords: significant social media intermediary, SSMI, platform compliance, grievance officer, originator traceability, WhatsApp traceability, compliance report, social media law India
+
+[SECTION: IT Rules 2021 Rule 3(2)]
+Title: Grievance Officer and Complaint Mechanism
+Description: Intermediaries must publish the name and contact details of their Grievance Officer and a mechanism for users or victims to make complaints. Complaints should generally be acknowledged within 24 hours and disposed of within 15 days. Complaints relating to content that exposes private areas, shows nudity or sexual conduct, involves impersonation in electronic form, or includes artificially morphed images of a person should be acted on expeditiously, generally within 24 hours of receipt. Users can use this route for fake account complaints, takedown requests, hacked account issues, privacy violations, non-consensual intimate images, and other platform harms.
+Penalty: Failure to follow grievance obligations can contribute to loss of safe harbour protection under IT Act Section 79.
+Keywords: grievance officer, complaint to social media, content takedown, fake account complaint, 24 hour removal, Instagram complaint, Facebook complaint, takedown request
+
+[SECTION: CYBERCRIME TOPIC - UPI Fraud]
+Title: UPI Fraud and Online Payment Fraud
+Description: UPI fraud involves deceiving victims into transferring money through UPI apps such as Google Pay, PhonePe, Paytm, or BHIM. Common methods include collect request scams, QR code scams, screen-sharing scams, fake customer care calls, SIM swap fraud, fake merchant UPI IDs, and social engineering around refunds or KYC. Victims should immediately call the cybercrime helpline 1930, report at cybercrime.gov.in, inform their bank, and preserve transaction IDs, phone numbers, screenshots, and chat records.
+Applicable Laws: IT Act Section 66, IT Act Section 66C, IT Act Section 66D, BNS Section 318, BNS Section 319, and sometimes IT Act Section 43 depending on unauthorised computer access.
+Keywords: UPI fraud, Google Pay fraud, PhonePe fraud, Paytm fraud, collect request scam, QR code scam, SIM swap, UPI scam, payment fraud, BHIM fraud
+
+[SECTION: CYBERCRIME TOPIC - OTP Fraud]
+Title: OTP Fraud and Vishing
+Description: OTP fraud involves tricking victims into sharing one-time passwords to gain unauthorised access to bank accounts, UPI accounts, email, or social media. Fraudsters may pose as bank officials, RBI staff, KYC officers, insurance agents, courier services, or government officials and create panic by saying an account will be blocked. Genuine banks and official agencies do not ask users to share OTPs. Victims should report immediately at 1930 and cybercrime.gov.in and notify their bank.
+Applicable Laws: IT Act Section 66C, IT Act Section 66D, BNS Section 318, and BNS Section 319.
+Keywords: OTP fraud, OTP scam, vishing, voice phishing, fake bank call, KYC fraud, RBI fraud call, share OTP, bank impersonation, phone fraud
+
+[SECTION: CYBERCRIME TOPIC - Phishing]
+Title: Phishing - Email, SMS, and Website Fraud
+Description: Phishing is a cyberattack where fraudsters send fake emails, SMS messages, WhatsApp messages, or links that appear to come from trusted sources such as banks, UIDAI, IRCTC, income tax authorities, e-commerce platforms, delivery services, or employers. Fake links may lead to counterfeit websites that steal login credentials, card numbers, OTPs, and personal information. Spear phishing targets specific people with personalised messages, while clone phishing imitates legitimate messages with malicious links. Victims can report phishing to cybercrime.gov.in and, for phishing emails, to CERT-In.
+Applicable Laws: IT Act Section 66, IT Act Section 66C, IT Act Section 66D, BNS Section 318, IT Act Section 43, and BNS Section 319 where impersonation is used.
+Keywords: phishing, email phishing, smishing, fake email, fake website, fake link, phishing link, credential theft, login theft, bank phishing, government phishing, IRCTC phishing
+
+[SECTION: CYBERCRIME TOPIC - Sextortion]
+Title: Sextortion - Sexual Blackmail Online
+Description: Sextortion is a cybercrime where a perpetrator obtains or fabricates intimate, nude, or sexually explicit images or videos of a victim and threatens to share them with family, friends, colleagues, or the public unless the victim pays money, shares more images, or performs sexual acts. Common patterns include fake WhatsApp video calls, screen recording, catfishing, hacked device content, or non-consensual image capture. Victims should avoid paying, preserve evidence, block only after saving records, and report immediately at 1930 or cybercrime.gov.in.
+Applicable Laws: IT Act Section 66E, IT Act Section 67, IT Act Section 67A, BNS Section 351, IT Act Section 66 where hacking is involved, and relevant extortion provisions depending on facts.
+Keywords: sextortion, sexual blackmail, intimate image blackmail, nude image threat, video call scam, WhatsApp blackmail, online extortion, revenge porn threat, pay or share threat
+
+[SECTION: CYBERCRIME TOPIC - Deepfake Misuse]
+Title: Deepfake Misuse and AI-Generated Fake Media
+Description: Deepfakes are AI-generated synthetic videos, images, or audio that appear to show real people saying or doing things they never did. Misuse can include non-consensual sexual deepfakes, defamatory fake videos, voice cloning for emergency money scams, impersonation in video calls, fake evidence, and manipulated political or business content. Harmful deepfake use may violate privacy, obscenity, defamation, cheating, personation, and forgery-related laws depending on the facts.
+Applicable Laws: IT Act Section 66E, IT Act Section 67A, BNS Section 356, BNS Section 336, BNS Section 340, BNS Section 318, IT Act Section 66D, and IT Rules 2021 for platform complaints.
+Keywords: deepfake, AI fake video, face swap, voice cloning, synthetic media, AI porn, deepfake fraud, fake video, AI misuse, fake evidence deepfake
+
+[SECTION: CYBERCRIME TOPIC - Cyberbullying]
+Title: Cyberbullying and Online Harassment
+Description: Cyberbullying is repeated digital harassment, intimidation, humiliation, or abuse. It may include abusive messages, threats, spreading rumours, public shaming, sharing embarrassing images without consent, fake profiles to mock someone, coordinated harassment, exclusion from online groups, and targeting minors on social media or gaming platforms. Victims should preserve evidence, report to the platform, and where serious, report at cybercrime.gov.in or to local police.
+Applicable Laws: BNS Section 351, BNS Section 356, IT Act Section 66E, IT Act Section 67, BNS Section 78, BNS Section 79, and child protection laws where minors are involved.
+Keywords: cyberbullying, online harassment, online abuse, trolling, pile-on, mass harassment, fake profile harassment, school cyberbullying, teen cyberbullying, gaming harassment
+
+[SECTION: CYBERCRIME TOPIC - Ransomware]
+Title: Ransomware Attack
+Description: Ransomware is malware that encrypts a victim's files or locks access to a computer or network and demands ransom, often in cryptocurrency, for restoration. It is commonly delivered through phishing emails, malicious downloads, exposed remote access, or software vulnerabilities. Victims should disconnect affected systems from networks, avoid paying if possible, preserve logs and evidence, seek technical help, report to cybercrime.gov.in, and covered organisations should report prescribed cyber incidents to CERT-In within the required timeline.
+Applicable Laws: IT Act Section 66, IT Act Section 43, IT Act Section 66F if critical infrastructure or national security is involved, IT Act Section 70B, and other provisions depending on extortion and damage.
+Keywords: ransomware, encryption attack, file encryption, crypto ransomware, WannaCry, ransom demand, decrypt files, ransomware attack India, CERT-In ransomware
+
+[SECTION: CYBERCRIME TOPIC - Doxxing]
+Title: Doxxing - Publishing Private Information to Harm
+Description: Doxxing is researching, collecting, or publicly revealing private or personal information about an individual online, such as home address, phone number, workplace, family details, financial information, or personal photos, without consent and often with intent to harm, harass, intimidate, or incite others. It can create real-world safety risks and is often combined with threats, stalking, defamation, or harassment.
+Applicable Laws: BNS Section 351 where threats are involved, IT Act Section 66E for privacy violations, BNS Section 356 where false reputational harm is caused, IT Act Section 43 if data was obtained by unauthorised access, and DPDP Act provisions for unlawful processing of personal data.
+Keywords: doxxing, doxing, exposing personal information, revealing home address, publishing private info, threatening with address, journalist harassment, activist harassment
+
+[SECTION: CYBERCRIME TOPIC - Fake Social Media Accounts]
+Title: Fake Instagram, Facebook, and Social Media Accounts
+Description: Fake social media accounts may impersonate a real person using their name, photos, and personal details on platforms such as Instagram, Facebook, X, LinkedIn, WhatsApp, or other services. Such accounts may harm reputation, send obscene or threatening messages, defraud others, extract information from friends and family, or harass the victim. Victims should preserve screenshots and URLs, report to the platform's grievance mechanism, file a complaint at cybercrime.gov.in or call 1930 for financial harm, and approach the local police or cyber cell where needed.
+Applicable Laws: IT Act Section 66D, IT Act Section 66C, BNS Section 319, BNS Section 356 if reputation is harmed, BNS Section 351 if threats are sent, and IT Rules 2021 grievance mechanisms for takedown.
+Keywords: fake Instagram account, fake Facebook account, fake profile, impersonation account, fake WhatsApp, social media impersonation, remove fake account, report fake profile
+
+[SECTION: CYBERCRIME TOPIC - How to Report Cybercrime in India]
+Title: How to Report Cybercrime in India - Official Channels
+Description: Victims can report cybercrime through official channels. Use the National Cyber Crime Reporting Portal at cybercrime.gov.in for cybercrime complaints including financial fraud, sextortion, cyberbullying, online harassment, and social media crimes. Call the national cybercrime helpline 1930 immediately for financial cyber fraud because quick reporting may help freeze fraudulent transactions. Every state has cyber cells or police stations where complaints and FIRs may be filed. Covered organisations should report prescribed cyber security incidents to CERT-In, and phishing emails may be reported to CERT-In's phishing reporting channel. Preserve evidence such as screenshots, URLs, call recordings, transaction IDs, UTR numbers, emails, headers, phone numbers, and profile links.
+Applicable Laws: IT Act Section 70B, IT Rules 2021, and the relevant substantive cyber offence provisions based on the facts.
+Keywords: how to report cybercrime, cybercrime.gov.in, 1930 helpline, cyber crime complaint, report hacking, report online fraud, CERT-In report, file FIR cybercrime, cyber police, cyber cell

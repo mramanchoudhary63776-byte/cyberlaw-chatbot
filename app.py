@@ -35,20 +35,27 @@ ensure_knowledge_base()
 
 with st.sidebar:
     st.title("⚖️ CyberLaw AI")
-    st.write("Ask anything about Indian Cyber Law")
+    st.write("Indian Cyber Law ke baare mein kuch bhi poochiye")
 
-    st.subheader("What can I ask?")
+    response_language = st.selectbox(
+        "Answer language",
+        ["Hinglish", "English"],
+        index=0,
+        help="Hinglish mode Roman Hindi + English mein jawab deta hai.",
+    )
+
+    st.subheader("Aap kya pooch sakte ho?")
     st.markdown(
         """
-- What is punishment for hacking under IT Act?
-- Explain IPC Section 420 in cyber context
-- What does IT Act Section 66C say about identity theft?
-- Is sending threatening messages online a crime?
-- What is cyber terrorism under Indian law?
+- Hacking ki punishment IT Act mein kya hai?
+- IPC Section 420 cyber fraud mein kaise apply hota hai?
+- IT Act Section 66C identity theft ke baare mein kya kehta hai?
+- Online threatening messages crime hai kya?
+- Indian law mein cyber terrorism kya hota hai?
 """
     )
 
-    if st.button("Clear Chat", use_container_width=True):
+    if st.button("Clear Chat / Chat saaf karein", use_container_width=True):
         st.session_state.messages = []
         st.rerun()
 
@@ -57,7 +64,7 @@ with st.sidebar:
 
 
 st.header("⚖️ CyberLaw AI Assistant")
-st.subheader("Your guide to Indian IT Act 2000 & IPC cyber provisions")
+st.subheader("Indian IT Act, IPC, BNS aur cybercrime laws ko simple language mein samjhein")
 
 
 # Store chat messages in Streamlit session state so history survives reruns.
@@ -67,9 +74,9 @@ if "messages" not in st.session_state:
 
 if not st.session_state.messages:
     welcome_message = (
-        "Namaste! 👋 I'm CyberLaw AI, your assistant for Indian Cyber Law. "
-        "Ask me about the IT Act 2000, its amendments, or related IPC sections. "
-        "I'll explain the law in plain English and cite the exact section for you."
+        "Namaste! 👋 Main CyberLaw AI hoon, Indian Cyber Law ke liye aapka assistant. "
+        "Aap IT Act 2000, IPC, BNS, DPDP Act, IT Rules, ya common cybercrime topics ke baare mein pooch sakte ho. "
+        "Main simple Hinglish mein answer dunga aur exact section cite karunga."
     )
     st.session_state.messages.append({"role": "assistant", "content": welcome_message})
 
@@ -88,7 +95,7 @@ except Exception as exc:
     st.stop()
 
 
-user_input = st.chat_input("Ask about Indian cyber law...")
+user_input = st.chat_input("Indian cyber law ke baare mein poochiye...")
 
 if user_input:
     # Add the user message immediately, then retrieve and generate the assistant reply.
@@ -98,8 +105,8 @@ if user_input:
         st.markdown(user_input)
 
     with st.chat_message("assistant"):
-        with st.spinner("Searching legal database..."):
-            assistant_response = chatbot.get_response(user_input)
+        with st.spinner("Legal database search ho raha hai..."):
+            assistant_response = chatbot.get_response(user_input, response_language)
         st.markdown(assistant_response)
 
     st.session_state.messages.append({"role": "assistant", "content": assistant_response})
